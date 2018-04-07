@@ -2,6 +2,6 @@
 set(SOURCE_FILES main.cpp)
 
 include_directories(${CMAKE_INCLUDE_DIR})
-add_executable(q_exo3 ${SOURCE_FILES})
+add_executable(2017_q_exo3 ${SOURCE_FILES})
 
-set_target_properties(q_exo3 PROPERTIES FOLDER ${V_FOLDER})
+set_target_properties(2017_q_exo3 PROPERTIES FOLDER ${V_FOLDER})
